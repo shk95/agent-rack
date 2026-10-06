@@ -1,0 +1,8 @@
+{
+  "name": "agent-rack",
+  "owner": {
+    "name": "shk95"
+  },
+  "plugins": [],
+  "description": "Small optional tools and workflows for existing agent harnesses."
+}

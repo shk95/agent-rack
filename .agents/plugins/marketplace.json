@@ -1,0 +1,7 @@
+{
+  "name": "agent-rack",
+  "interface": {
+    "displayName": "Agent Rack"
+  },
+  "plugins": []
+}
